@@ -6,4 +6,4 @@ We used the Breast Cancer Wisconsin (Diagnostic) dataset from the UCI Machine Le
   &emsp;Project 1: Fisher Linear Discriminant Analysis (FLDA) Classifier<br>
   &emsp;Project 2: Linear, Quadratic, DiagLinear, and DiagQuadratic Classifiers<br>
   &emsp;Project 3: Support Vector Machines (SVMs)<br>
-  &emsp;Final Project: A combination of projects 1-3, with the addition of utilizing feature selection to pre-process the data before it enters the &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;pipeline.<p>
+  &emsp;Final Project: A combination of projects 1-3, with the addition of utilizing feature selection to pre-process the data before it enters the pipeline.<p>
