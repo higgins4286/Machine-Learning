@@ -1,3 +1,5 @@
+# Machine-Learning
+
 <p>This repository contains the code I wrote for four projects that I was assigned in my Machine Learning course.<br>
 We used the Breast Cancer Wisconsin (Diagnostic) dataset from the UCI Machine Learning Repository:<br> 
    https://archive-beta.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+diagnostic<p>
